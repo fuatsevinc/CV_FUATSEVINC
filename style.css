@@ -70,7 +70,7 @@ li{
     display: block;
     float: left;
     width: 35%;
-    height: 80rem;
+    height: 85rem;
     padding-left: 30px;
     background-image: linear-gradient(50deg, rgb(247, 243, 243),rgb(231, 248, 171)) ;
     border-radius: 0rem 0rem 0rem 1rem;
@@ -80,7 +80,7 @@ li{
     display: block;
     float: right;
     width: 65%;
-    height: 80rem;
+    height: 85rem;
     padding-right: 45px;
     padding-left: 45px;
     background-image: linear-gradient(50deg, rgb(247, 243, 243),rgb(229, 245, 160)) ;
