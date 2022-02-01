@@ -1,27 +1,60 @@
-
-.beispiel {
-    width: 20em;
-    align-items: center;
-  
-    border: 1px solid #333;
-    box-shadow: 8px 8px 5px #444;
-    padding: 8px 12px;
-    background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
-  }
-  .isim{
-    width: 50em;
-    align-items: center;
-
-    border: 1px solid #333;
-    box-shadow: 8px 8px 5px #444;
-    padding: 8px 12px;
-    background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
-  }
-  .fuat{
-    align-items: center;
-    width: 90px;
-    height: 90px;
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./images/js.jpg);
+}
+.header{
+    background-image: linear-gradient(50deg, red,blue) ;
+    width: 1000px;
+    margin: auto;
+    display: block;
+}
+.header__left{
+    float: left;
+    display: inline-block;
+    width: 30%;
+}
+.header__right{
     float: right;
-    margin: 0%;
-    padding: auto;
-  }
+    display: inline-block;
+    width: 70%;
+    text-align: center;
+}
+.clear{
+    clear: both;
+}
+.fuat{
+    float: left;
+    width: 100px;
+    height: 100px;
+    padding: 1rem;
+    border-radius: 50%;
+}
+.main{
+    background-color: cadetblue;
+    width: 1000px;
+    margin: auto;
+    display: block;
+    height: auto;
+}
+
+.main__left{
+    display: block;
+    float: left;
+    width: 30%;
+    height: 900px;
+    padding-left: 30px;
+    position: absolute; 
+    background-image: linear-gradient(50deg, rgb(105, 114, 98),rgb(98, 98, 161)) ;
+}
+.main__right{
+    float: right;
+    display: block;
+    width: 70%;
+    height: 900px;
+    padding-right: -30px;
+    background-image: linear-gradient(50deg, rgb(141, 86, 100),rgb(85, 85, 180)) ;
+}
