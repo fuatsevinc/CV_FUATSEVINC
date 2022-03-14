@@ -8,6 +8,7 @@ a{
     text-decoration: none;
     cursor: pointer;
     color: #e52d4b;
+    text-decoration: none;
 }
 
 a:hover{
@@ -18,16 +19,16 @@ a:hover{
 }
 
 p{
-    font-size: 0.9rem;
+    font-size: 1rem;
 }
 
 body{
-    background-image: url(./images/bg-last.jpg);
+    background-image: url(./img/cv-bg-img.jpg);
     font-family: 'Montserrat', sans-serif;
 }
 
 .header{
-    background-color: blueviolet;
+    background: linear-gradient(to right,rgb(190, 24, 24),rgb(13, 13, 231));
     width: 50rem;
     margin: auto;
     display: block;
@@ -68,11 +69,11 @@ body{
 }
 
 .header__p--right{
-    color: white;
+    color: rgb(182, 68, 68);
 }
 
 .main{
-    background-color: blueviolet;
+    background-color: rgb(83, 54, 109);
     width: 50rem;
     margin: auto;
     display: block;
