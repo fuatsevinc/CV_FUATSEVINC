@@ -25,6 +25,7 @@ p{
 body{
     background-image: url(./img/cv-bg-img.jpg);
     font-family: 'Montserrat', sans-serif;
+    color: rgb(15, 12, 216);
 }
 
 .header{
