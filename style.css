@@ -96,7 +96,7 @@ body{
 
 .main__right{
     display: block;
-    background: linear-gradient(to right,rgb(40, 83, 83),rgb(35, 36, 75));
+    background: linear-gradient(to right,rgb(122, 219, 219),rgb(120, 122, 226));
     padding-left: 45px;
     padding-right: 45px;
     height: 90rem;
