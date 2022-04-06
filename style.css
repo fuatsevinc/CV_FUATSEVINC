@@ -107,7 +107,7 @@ body{
 }
 
 .main__right h5{
-    color: #faebd7;
+    color: #4d4feb;
 }
 
 .main__right ul{
@@ -138,7 +138,7 @@ h3{
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-size: 1.5rem;
-    color: #faebd7;
+    color: #5822ec;
     text-align: center;
     border-bottom: dotted 3px white;
     padding-bottom: 0.5rem;
@@ -148,7 +148,7 @@ h5{
     margin-top: 1rem;
     margin-bottom: 1rem;
     font-size: 1rem;
-    
+    color: #5822ec; 
 }
 
 .project-button{
@@ -183,7 +183,7 @@ h5{
 
 hr{
     margin-top: 1rem;
-    color: black;
+    color: rgb(28, 32, 231);
     height: 0.3rem;
 }
 .fuat{
